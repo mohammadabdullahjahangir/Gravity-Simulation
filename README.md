@@ -165,8 +165,3 @@ This project explores:
 
 Built as a deeper exploration into physics engines and GPU pipelines.
 
----
-
-## License
-
-MIT License (or your preferred license)
