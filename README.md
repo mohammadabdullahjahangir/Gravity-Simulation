@@ -93,21 +93,6 @@ clang++ main.cpp -std=c++17 \
 -framework CoreVideo \
 -o app
 ```
-
-### Intel Mac
-
-Replace:
-
-```
-/opt/homebrew
-```
-
-with:
-
-```
-/usr/local
-```
-
 ---
 
 ## Technical Overview
@@ -133,7 +118,7 @@ with:
 ## Project Structure
 
 ```
-main.cpp
+gravity_simulation.cpp
 README.md
 ```
 
@@ -165,3 +150,7 @@ This project explores:
 
 Built as a deeper exploration into physics engines and GPU pipelines.
 
+
+## Other Projects
+
+I am also working on black hole and quantum atom simulations.
